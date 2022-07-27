@@ -1,0 +1,28 @@
+.app {
+  font-family: "Roboto", sans-serif;
+}
+
+.app-logo {
+  height: 3rem;
+}
+
+.app-header {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #333333;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+ul {
+  padding: 0;
+}
